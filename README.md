@@ -1,4 +1,4 @@
-# RedDeadSnakation
+# RedDeadSnekation
 Classic snake game with RDR2 motive
 
 Simple project created to train swing skills.
